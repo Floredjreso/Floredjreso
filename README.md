@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Floredjreso
+- 👋 Hi, I’m Florence SEDJRO
 - 👀 I’m interested in GitHub.
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on projects
